@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
     String name = "Misbah";
     return  Scaffold(
       appBar: AppBar(
-        title:Text("FLutter App") ,
+        title:Text("Flutter App") ,
       ),
         body: Center(
           child: Container(
